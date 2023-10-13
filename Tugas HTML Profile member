@@ -1,0 +1,100 @@
+<html>
+    <head>
+        <title>Naura'Style</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="https://fonts.google.com/specimen/Playfair+Display" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+
+        <style>
+            .kartu-pengenal{
+            width: 900px;
+            height: 500px; 
+            position: relative;
+            border: 10px solid #FACBEA ; 
+            border-radius: 15px; 
+            margin:auto;
+            margin-top: 20;
+            background-color: #B0578D
+            }
+
+            .sosmed{
+                padding-left: 20px;
+                font-size: 30px;
+                color: #FFE4D6;
+                margin-left: 70px;
+                margin-right: 20px;
+                
+            }
+
+            .isi{
+                color: #CCC8AA;
+            }
+
+            h2{
+                color: #F1EFEF ;
+                font-family: 'Playfair Display', serif;
+            }
+
+            .judul{
+                color: #D988B9 ;
+                border-style: solid;      
+            }
+
+            .warna-menu{
+                color: #DAFFFB;
+            }
+
+            .menu>li{
+                display: inline;
+                margin-right: 35px;
+                
+            }
+
+            .img{
+                width: 30%;
+                float: left;
+                border-radius: 15px;
+                margin-right: 20px;
+            }
+
+      
+            
+        </style>
+    </head>
+
+    <body>
+        <h1 class="font-Times New Roman judul"  style="text-align:center;margin-top:40; margin-bottom: 15;">Naura'ClubStyle</h1>
+       <hr />
+    <div class="kartu-pengenal">
+        <img class="img" src="images\image-profil.jpg" alt="foto naurah">
+
+        <h2 style="font-family: 'Times New Roman', Times, serif;">Nama</h2>
+        <h3 class="isi" style="margin-top: -20px">Naurah Agri Ganafi</h3>
+
+        <h2 style=" font-family: 'Times New Roman', Times, serif;">Tentang Member</h2>
+        <h4 class="isi" style="margin-top: -20px">Hai!!, perkenalkan saya naurah mahasiswa CCIT FTUI.  </h4>
+
+        <h2 style="font-family: 'Times New Roman', Times, serif;">Tempat Tanggal Lahir</h2>
+        <h3 class="isi" style="margin-top: -20px">MuaraEnim, 11 Juli 2004</h3>
+
+        <h2 style="font-family: 'Times New Roman', Times, serif;">Zodiak</h2>
+        <h3 class="isi" style="margin-top: -20px">Cancer</h2>
+        
+        <h2 style="font-family: 'Times New Roman', Times, serif;">Hobi</h2>
+        <ul class="isi
+        " style="margin-top: -10px">
+            <li>Traveling</li>
+            <li>Olahraga</li>
+        </ul>
+        <h2 style="margin-top: 12; margin-left: 400;" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Social Media</h2>
+        <div class="sosmed">
+            <a class="sosmed" href="https://www.facebook.com/naurah.agri?mibextid=LQQJ4d"><i class="fa-brands fa-facebook"></i></a>
+            <a class="sosmed" href="https://instagram.com/nauraiscrr?igshid=MzRlODBiNWFlZA=="><i class="fa-brands fa-instagram"></i></a>
+            <a class="sosmed" href="https://https://www.tiktok.com/@nawragh_?_t=8gHO40k5fJC&_r=1"><i class="fa-brands fa-tiktok"></i></a>
+            <a class="sosmed" href="https://wa.me/085357317944"><i class="fa-brands fa-square-whatsapp"></i></a>
+        </div>
+
+    </div>
+
+       
+    </body>
+</html>
